@@ -1,0 +1,2 @@
+# EXCELReadTool
+这是一个在Unity读取Excel表数据的小插件，它将很方便的一键导入数据资源
